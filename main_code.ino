@@ -235,11 +235,8 @@ void loop() {
               }
               //} (acho que é inutil mas se der erro n é)
               servo_base.write(rotbase);
-
               break;
-
             default:
-
               break;
           }
         }
